@@ -6,12 +6,12 @@
 ---------------------------------------------<br>
 
 -- Instructions: Just drag and drop the qb-detector folder into your resources.
--- Make sure to update the resource name in your resource.cfg accordingly.
+-- Make sure to update the resource name in your resource.cfg accordingly.<br><br>
 
 -- If you operate your QB Server with a modified name, update it in the Config.lua file.
--- The Config.lua file contains any settings you may want to add or change.
+-- The Config.lua file contains any settings you may want to add or change.<br><br>
 
 -- Feel free to contribute to this script. You may NOT resell this script or parts of it in any way.
--- You're welcome to submit bug reports or pull requests on GitHub.
+-- You're welcome to submit bug reports or pull requests on GitHub.<br><br>
 
 --
