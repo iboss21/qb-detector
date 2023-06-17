@@ -1,9 +1,9 @@
 ---------------------------------------------
 -- QB Metal Detector Script<br>
--- Created by [The Lux Empire / iBoss21]
--- Version: 1.1.0
--- Server: [The Lux Empire RP]
----------------------------------------------
+-- Created by [The Lux Empire / iBoss21]<br>
+-- Version: 1.1.0<br>
+-- Server: [The Lux Empire RP]<br>
+---------------------------------------------<br>
 
 -- Instructions: Just drag and drop the qb-detector folder into your resources.
 -- Make sure to update the resource name in your resource.cfg accordingly.
