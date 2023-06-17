@@ -2,7 +2,6 @@
 -- QB Metal Detector Script
 -- Created by [The Lux Empire / iBoss21]
 -- Version: 1.1.0
--- GitHub: [https://github.com/iBoss21/QB-Detector]
 -- Server: [The Lux Empire RP]
 ---------------------------------------------
 
