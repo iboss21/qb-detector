@@ -1,5 +1,5 @@
 ---------------------------------------------
--- QB Metal Detector Script
+-- QB Metal Detector Script<br>
 -- Created by [The Lux Empire / iBoss21]
 -- Version: 1.1.0
 -- Server: [The Lux Empire RP]
