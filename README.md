@@ -29,11 +29,9 @@ If you have any questions, encounter any issues, or need support, you can reach 
 License
 The Lux Empire - QB-Detector script is released under the MIT License.
 
----------------------------------------------
--- QB Metal Detector Script
--- Created by [The Lux Empire / iBoss21]
--- Version: 1.1.0
--- GitHub: [https://github.com/iBoss21/QB-Detector]
--- Server: [The Lux Empire RP]
----------------------------------------------
+QB Metal Detector Script
+Created by [The Lux Empire / iBoss21]
+Version: 1.1.0
+GitHub: [https://github.com/iBoss21/QB-Detector]
+Server: [The Lux Empire RP]
 
