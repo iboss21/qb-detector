@@ -28,4 +28,4 @@ live_server 'The Lux Empire RP'
 dependency 'qb-core'
 
 -- Update check
-server_script 'update_check.lua'
+--server_script 'update_check.lua'
