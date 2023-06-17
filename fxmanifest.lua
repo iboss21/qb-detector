@@ -19,7 +19,7 @@ client_scripts {
 	'client/main.lua',
 }
 
-repository 'iBoss21/QB-Detectors'
+repository 'iBoss21/QB-Detector'
 github 'https://github.com/iBoss21/QB-Detector'
 brand 'The Lux Empire'
 discord 'discord.gg/theluxempire'
